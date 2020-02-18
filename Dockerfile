@@ -1,5 +1,5 @@
 FROM openjdk:latest
 WORKDIR /etc
-COPY javascript.java /etc
-RUN javac javascript.java
-CMD ["java", "javascript.java"]
+COPY javascript-cont.java /etc
+RUN javac javascript-cont.java
+CMD ["java", "javascript-cont.java"]
