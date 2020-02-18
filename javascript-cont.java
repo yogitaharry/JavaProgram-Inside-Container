@@ -1,9 +1,9 @@
 /* This is a simple Java program.
-   FileName : "javascript-cont.java". */
+   FileName : "javascript.java". */
 
 
 
-class javascript-cont
+class javascript
 {
 
 
